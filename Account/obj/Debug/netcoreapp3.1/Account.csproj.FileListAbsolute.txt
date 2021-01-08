@@ -1,0 +1,8 @@
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\88018\Downloads\C#\LABS\Final Labs\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\User\Downloads\lab-Task-C-Sharp--master\Final\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
